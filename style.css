@@ -66,7 +66,7 @@ nav ul li a:hover{
 /*////////////////////////////////////*/
 .section-1{
 	width: 100%;
-	min-height: 100vh;
+	min-height: 86vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -1278,7 +1278,7 @@ footer h5{
 	}
 	.section-1{
 		width: 100%;
-		min-height: 87vh;
+		min-height: 85vh;
 		display: flex;
 		justify-content: center;
 		align-items: center;
@@ -1717,7 +1717,7 @@ footer h5{
 		}
 		.section-1{
 			width: 100%;
-			min-height: 85vh;
+			min-height: 84vh;
 			padding-top: 30px;
 		}
 		/*///for modal account form//*/
@@ -2020,7 +2020,7 @@ footer h5{
 		}
 		.section-1{
 			width: 100%;
-			min-height: 85vh;
+			min-height: 84vh;
 			padding-top: 30px;
 		}
 		/*///for modal account form//*/
